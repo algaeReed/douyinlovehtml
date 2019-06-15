@@ -55,7 +55,12 @@
 		display: inline-block;
 		width: 150px;
 		height: 40px;
-		background-color: #c9302c;
+		background-color: 
+
+
+
+
+#FFC0CB;
 		border-color: #ac2925;
 		border-radius: 5px;
 		line-height: 40px;
@@ -119,7 +124,7 @@
 		display: inline-block;
 		width: 40%;
 		height: 40px;
-		background-color: #c9302c;
+		background-color: #FFC0CB;
 		border-color: #ac2925;
 		border-radius: 5px;
 		line-height: 40px;
